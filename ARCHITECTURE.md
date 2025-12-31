@@ -4,13 +4,6 @@ The system follows a **modular, role-based, service-oriented architecture** desi
 
 ---
 
-## Architecture Diagram
-> 📌 Insert system architecture diagram image here
-
-![System Architecture Diagram](../assets/architecture.png)
-
----
-
 ## Major Components
 
 ### Frontend Layer
