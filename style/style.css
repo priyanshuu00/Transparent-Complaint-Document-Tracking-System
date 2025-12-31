@@ -1,0 +1,99 @@
+* {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f5f7fb;
+}
+
+header {
+  background: #2563eb;
+  color: white;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login-container, .verify-container {
+  max-width: 400px;
+  background: white;
+  padding: 25px;
+  margin: 80px auto;
+  border-radius: 8px;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.otp-box input {
+  width: 50px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.primary-btn {
+  background: #2563eb;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+}
+
+.link-btn {
+  background: none;
+  border: none;
+  color: #2563eb;
+  margin-top: 10px;
+}
+
+.stats {
+  display: flex;
+  gap: 15px;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  flex: 1;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.success { color: green; }
+.danger { color: red; }
+
+.list {
+  padding: 20px;
+}
+
+.list-item {
+  background: white;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
+
+.badge {
+  padding: 4px 8px;
+  border-radius: 5px;
+  color: white;
+  font-size: 12px;
+}
+
+.blue { background: #2563eb; }
+.green { background: green; }
+.red { background: red; }
+
+.small-btn {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
