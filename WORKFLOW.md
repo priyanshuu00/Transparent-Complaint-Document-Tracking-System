@@ -1,7 +1,7 @@
 # End-to-End Workflow
 
 ## High-Level Workflow
-<img width="970" height="875" alt="image" src="https://github.com/user-attachments/assets/96aab1a6-e916-4b2d-a225-c2203689aba1" />
+<img width="700" height="880" alt="image" src="https://github.com/user-attachments/assets/96aab1a6-e916-4b2d-a225-c2203689aba1" />
 
 
 ```
