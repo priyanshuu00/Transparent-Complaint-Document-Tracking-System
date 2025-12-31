@@ -40,5 +40,4 @@ This platform does **not replace government systems**. It acts as a **transparen
 ## Documentation Index
 - [Architecture Overview](ARCHITECTURE.md)
 - [End-to-End Workflow](WORKFLOW.md)
-- [Data Flow Diagrams](DATA_FLOW.md)
 - [Round 2 Improvements](ROUND2_IMPROVEMENTS.md)
