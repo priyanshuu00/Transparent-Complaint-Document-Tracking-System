@@ -28,11 +28,19 @@
   <button class="primary-btn">Login</button>
   <button class="link-btn">Resend OTP</button>
 
+<input id="contact" placeholder="Email / Mobile">
+<input id="otp" placeholder="Enter OTP">
+
+<button onclick="sendOTP()">Send OTP</button>
+<button onclick="verifyOTP('user')">Login as User</button>
+<button onclick="verifyOTP('officer')">Login as Officer</button>
+
+
   <p class="small-text">
     Secure and transparent government services
   </p>
 </div>
 
-<script src="js/app.js"></script>
+<script src="js/auth.js"></script>
 </body>
 </html>
