@@ -41,10 +41,10 @@ This platform does **not replace government systems**. It acts as a **transparen
 
 Transparent-Complaint-Document-Tracking-System/
 │
-├── Frontend/        # UI code (citizen & officer dashboards)
-├── Backend/         # APIs, business logic, database models
-├── docs/            # Architecture, DFDs, DB schema, workflow
-├── Images/          # Screenshots & diagrams
+├── Frontend/      
+├── Backend/         
+├── docs/            
+├── Images/          
 └── README.md
 
 ---
@@ -53,13 +53,13 @@ Transparent-Complaint-Document-Tracking-System/
 
 ### Frontend
 ```bash```
-cd Frontend
-open index.html
+- cd Frontend
+- open index.html
 
 ### Backend
-cd Backend
-npm install
-npm start
+- cd Backend
+- npm install
+- npm start
 
 ---
 
@@ -72,7 +72,6 @@ npm start
 | Vaishnavi   | Database schema design & data modeling |
 | Anshika     | Documentation, diagrams, research & workflow |
 
-> Each member contributed code through individual commits and feature branches.
 
 ---
 
