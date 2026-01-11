@@ -38,6 +38,27 @@ This platform does **not replace government systems**. It acts as a **transparen
 ---
 
 ## Documentation Index
-- [Architecture Overview](ARCHITECTURE.md)
-- [End-to-End Workflow](WORKFLOW.md)
-- [Round 2 Improvements](ROUND2_IMPROVEMENTS.md)
+
+All project documentation is organized into separate Markdown files for clarity and modular design:
+
+- **Architecture Overview** → [`ARCHITECTURE.md`](./ARCHITECTURE.md)  
+  *High-level system architecture, components, and technical design.*
+
+- **Data Flow & System Design** → [`DATAFLOW.md`](./DATAFLOW.md)  
+  *Includes DFD Level 0, DFD Level 1, database (ER) diagram.*
+
+- **Project Motivation** → [`MOTIVE.md`](./MOTIVE.md)  
+  *Explains the problem statement, why the project exists, and its social impact.*
+
+- **End-to-End Workflow** → [`WORKFLOW.md`](./WORKFLOW.md)  
+  *Step-by-step process of complaint submission, processing, monitoring, and resolution.*
+
+- **System Flowchart** → [`flowchart.md`](./flowchart.md)  
+  *Visual representation and explanation of data flow and request lifecycle.*
+
+- **Prototype Description** → [`prototype.md`](./prototype.md)  
+  *UI/UX concept, sample screens, and functional behavior of the prototype.*
+
+- **Future Enhancements (Round 2)** → [`ROUND2_IMPROVEMENTS.md`](./ROUND2_IMPROVEMENTS.md)  
+  *Planned upgrades, scalability features, and advanced accountability mechanisms.*
+
