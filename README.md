@@ -41,24 +41,24 @@ This platform does **not replace government systems**. It acts as a **transparen
 
 All project documentation is organized into separate Markdown files for clarity and modular design:
 
-- **Architecture Overview** → [`ARCHITECTURE.md`](./ARCHITECTURE.md)  
+- **Architecture Overview** → [`ARCHITECTURE.md`](docs/ARCHITECTURE.md)  
   *High-level system architecture, components, and technical design.*
 
-- **Data Flow & System Design** → [`DATAFLOW.md`](./DATAFLOW.md)  
+- **Data Flow & System Design** → [`DATAFLOW.md`](docs/DATAFLOW.md)  
   *Includes DFD Level 0, DFD Level 1, database (ER) diagram.*
 
-- **Project Motivation** → [`MOTIVE.md`](./MOTIVE.md)  
+- **Project Motivation** → [`MOTIVE.md`](docs/MOTIVE.md)  
   *Explains the problem statement, why the project exists, and its social impact.*
 
-- **End-to-End Workflow** → [`WORKFLOW.md`](./WORKFLOW.md)  
+- **End-to-End Workflow** → [`WORKFLOW.md`](docs/WORKFLOW.md)  
   *Step-by-step process of complaint submission, processing, monitoring, and resolution.*
 
-- **System Flowchart** → [`flowchart.md`](./flowchart.md)  
+- **System Flowchart** → [`flowchart.md`](docs/flowchart.md)  
   *Visual representation and explanation of data flow and request lifecycle.*
 
-- **Prototype Description** → [`prototype.md`](./prototype.md)  
+- **Prototype Description** → [`prototype.md`](docs/prototype.md)  
   *UI/UX concept, sample screens, and functional behavior of the prototype.*
 
-- **Future Enhancements (Round 2)** → [`ROUND2_IMPROVEMENTS.md`](./ROUND2_IMPROVEMENTS.md)  
+- **Future Enhancements (Round 2)** → [`ROUND2_IMPROVEMENTS.md`](docs/ROUND2_IMPROVEMENTS.md)  
   *Planned upgrades, scalability features, and advanced accountability mechanisms.*
 
