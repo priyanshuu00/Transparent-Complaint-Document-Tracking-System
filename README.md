@@ -37,6 +37,45 @@ This platform does **not replace government systems**. It acts as a **transparen
 
 ---
 
+## Repository Structure
+
+Transparent-Complaint-Document-Tracking-System/
+│
+├── Frontend/        # UI code (citizen & officer dashboards)
+├── Backend/         # APIs, business logic, database models
+├── docs/            # Architecture, DFDs, DB schema, workflow
+├── Images/          # Screenshots & diagrams
+└── README.md
+
+---
+
+## How to Run the Project
+
+### Frontend
+```bash```
+cd Frontend
+open index.html
+
+### Backend
+cd Backend
+npm install
+npm start
+
+---
+
+## Team Contributions
+
+| Member Name | Responsibility |
+|-------------|----------------|
+| Priyanshu   | Frontend UI development & integration |
+| Lucky Singh | Backend architecture, API design, SLA logic |
+| Vaishnavi   | Database schema design & data modeling |
+| Anshika     | Documentation, diagrams, research & workflow |
+
+> Each member contributed code through individual commits and feature branches.
+
+---
+
 ## Documentation Index
 
 All project documentation is organized into separate Markdown files for clarity and modular design:
