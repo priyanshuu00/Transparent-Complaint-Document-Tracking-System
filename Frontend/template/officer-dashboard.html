@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Officer Dashboard</title>
+  <link rel="stylesheet" href="/Frontend/style/style.css">
+</head>
+<body>
+
+<header>
+  <h2>Officer Dashboard</h2>
+</header>
+
+<section class="stats">
+  <div class="card">Assigned Requests<br><b>3</b></div>
+  <div class="card">Pending Action<br><b>1</b></div>
+  <div class="card danger">Overdue<br><b>1</b></div>
+</section>
+
+<section class="list">
+  <h3>Assigned Requests</h3>
+
+  <div class="list-item">
+    <h4>Property Document Verification <span class="badge blue">In Process</span></h4>
+    <button class="small-btn">Review</button>
+    <button class="small-btn">Complete</button>
+  </div>
+
+  <div class="list-item">
+    <h4>FIR Copy Request <span class="badge green">Completed</span></h4>
+  </div>
+
+  <div id="officerList"></div>
+
+
+</section>
+
+<script src="js/officer.js"></script>
+
+</body>
+</html>
