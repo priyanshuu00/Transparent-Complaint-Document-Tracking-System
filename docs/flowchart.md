@@ -8,7 +8,7 @@ To design a system that ensures:
 - Time and cost accountability
 - Digital verification using QR codes
 
-![Flowchart](Images/flowChart.png)
+![Flowchart](../Images/flowChart.png)
 
 ### User Flow
 1. User logs in or registers.

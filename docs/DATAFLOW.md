@@ -9,7 +9,7 @@
 DFD Level 0 represents the entire system as a **single process** and shows how external entities interact with it.
 
 ### Diagram
-![DFD Level 0](./Images/DFD0.png)
+![DFD Level 0](../Images/DFD0.png)
 
 ### External Entities
 - **Citizen** – Submits complaints or document requests  
@@ -32,7 +32,7 @@ DFD Level 0 represents the entire system as a **single process** and shows how e
 DFD Level 1 decomposes the system into its **core functional processes**.
 
 ### Diagram
-![DFD Level 1](./Images/DFD1.png)
+![DFD Level 1](../Images/DFD1.png)
 
 ### Processes
 
@@ -61,7 +61,7 @@ DFD Level 1 decomposes the system into its **core functional processes**.
 ## 3. Database Design (ER Diagram)
 
 ### Diagram
-![Database Schema](./Images/DB.png)
+![Database Schema](../Images/DB.png)
 
 ### Core Tables
 - **User** – Stores citizen and official information  
