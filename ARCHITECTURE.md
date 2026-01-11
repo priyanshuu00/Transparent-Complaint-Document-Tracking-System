@@ -4,6 +4,11 @@ The system follows a **modular, role-based, service-oriented architecture** desi
 
 ---
 
+## System Architecture Diagram
+
+![System Architecture](./Images/SYSTEM_ARC.png)
+
+---
 ## Major Components
 
 ### Frontend Layer
